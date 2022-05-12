@@ -10,7 +10,7 @@ print(Colorate.Vertical(Colors.purple_to_red, '''
 ┌┬┐┬┌┐┌┌─┐┌─┐┬─┐┌─┐┌─┐┌┬┐  ┌┐ ┌─┐┌┬┐
 │││││││├┤ │  ├┬┘├─┤├┤  │   ├┴┐│ │ │ 
 ┴ ┴┴┘└┘└─┘└─┘┴└─┴ ┴└   ┴   └─┘└─┘ ┴  By Pąblo#4316   
-
+Pąblo#4316 | https://github.com/palblo/minecraftbots
 ''', 1))
 
 speed = int(Write.Input("Join Speed -> ", Colors.red_to_purple, interval=0.00005))
