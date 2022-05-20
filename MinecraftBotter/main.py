@@ -5,15 +5,15 @@ from pystyle import Colors, Colorate, Write
 
 chars = 'QWERTYUIOPASDFGHJKLZXCVBNM'
 
-print(Colorate.Vertical(Colors.purple_to_red, '''
-
+print(Colorate.Horizontal(Colors.purple_to_red, '''
 ┌┬┐┬┌┐┌┌─┐┌─┐┬─┐┌─┐┌─┐┌┬┐  ┌┐ ┌─┐┌┬┐
 │││││││├┤ │  ├┬┘├─┤├┤  │   ├┴┐│ │ │ 
 ┴ ┴┴┘└┘└─┘└─┘┴└─┴ ┴└   ┴   └─┘└─┘ ┴  By Pąblo#4316   
-Pąblo#4316 | https://github.com/palblo/minecraftbots
+
+Pąblo#4316 | https://github.com/palblo/SpotifyGen
 ''', 1))
 
-speed = int(Write.Input("Join Speed -> ", Colors.red_to_purple, interval=0.00005))
+speed = int(Write.Input("\nJoin Speed -> ", Colors.red_to_purple, interval=0.00005))
 address = Write.Input("Address (without port) -> ", Colors.red_to_purple, interval=0.00005)
 port = Write.Input("Port -> ", Colors.red_to_purple, interval=0.00005)
 bots = int(Write.Input("How many bots? -> ", Colors.red_to_purple, interval=0.00005))
@@ -38,6 +38,3 @@ for i in range(bots):
     sleep(speed)
 print()
 print(Colorate.Horizontal(Colors.green_to_white, f"DONE", 1))
-
-
-    
