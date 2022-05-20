@@ -11,10 +11,12 @@ git clone https://github.com/palblo/minecraftbots.git
  
 # use
 ## insert the join speed
-![Cattura](https://user-images.githubusercontent.com/100297632/167307002-cc6d798a-19b4-4e68-88aa-ad57cbb56736.PNG)
+![Cattura1](https://user-images.githubusercontent.com/100297632/169595808-f5b22789-f5e7-442a-afd0-d62d4a78568b.PNG)
 
 ## insert the address and the port
-![Cattura](https://user-images.githubusercontent.com/100297632/167307042-002e9fca-1607-4720-927a-59d319e6cc01.PNG)
+![Cattura2](https://user-images.githubusercontent.com/100297632/169595827-4778c4cb-3cbf-4329-926f-f8290717f18f.PNG)
+![Cattura3](https://user-images.githubusercontent.com/100297632/169595830-3cbdca17-dbb8-493a-b576-21f957ccd067.PNG)
+
 
 ## enter the number of bots
-![Cattura](https://user-images.githubusercontent.com/100297632/167307053-f4a23b58-62b5-4590-9a1b-09addefe14be.PNG)
+![Cattura](https://user-images.githubusercontent.com/100297632/169595847-e8ed892a-1dc7-4568-a3c2-3cea87d01a69.PNG)
